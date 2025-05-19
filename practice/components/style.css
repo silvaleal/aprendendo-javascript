@@ -1,0 +1,26 @@
+a {
+    padding: 5px;
+    display: block;
+}
+
+#modal {
+    background-color: green;
+    padding: 5em;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    /* display: inline-block; */
+}
+
+#modal-close {
+    display: inline;
+}
+
+#alert {
+    background-color: yellow;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
