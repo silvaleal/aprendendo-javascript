@@ -1,5 +1,5 @@
 # Meus estudos por cursos
-
+> Atenção, caso um arquivo esteja vázio, significa que eu irei revisar mais aulas separadamente, para entender da melhor forma.
 
 | Curso                                                                                    | Dificuldade           | Descrição             | Plataforma |
 | ---------------------------------------------------------------------------------------- | --------------------- | ----------------------- | ---------- |
