@@ -20,7 +20,7 @@ const valoresArrow = arr1.filter(arr1 => arr1 >= 18) // O nome do parâmetro dev
 
 console.log(valoresArrow)
 
-// Desafios
+// Desafio
 
 const pessoas = [
     {
