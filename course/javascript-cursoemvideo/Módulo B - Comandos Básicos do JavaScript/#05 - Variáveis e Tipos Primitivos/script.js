@@ -8,7 +8,7 @@ var nome = "lealsilva"
 let idade = 10
 idade = 11
 
-// Estou criando uma variável, a variável que eu criei, mude, mas continua sendo a antiga variável
+// Estou criando uma variável, a variável que eu criei, muda, mas continua sendo a antiga variável
 
 const token = "..."
 
